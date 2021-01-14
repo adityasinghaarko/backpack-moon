@@ -1,0 +1,35 @@
+h1{
+    font-family: 'Bebas Neue', cursive;
+}
+.hottest-item h1{
+    font-size: 70px;
+}
+img{
+    width: 100%;
+}
+
+.highlight{
+    color: #76C27E;
+}
+.btn{
+    background-color: #2A1E59;
+    border-radius: 10px;
+    padding: 10px 30px;
+}
+i{
+    color: white;
+}
+.facilities , .products ,.referral{
+    margin-top: 150px;
+}
+.facility , .casual-item ,.penguin-refferal{
+    border: 0;
+}
+.facility img{
+    width: 100px;
+}
+.penguin-footer{
+    border: 0;
+    background-color: white;
+}
+}
